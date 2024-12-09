@@ -5,7 +5,7 @@ function  Home() {
         Te Amo Matheus!!!❤️ 
         
         OBS: Mudança nova. Antes o projeto era acessado através do serviço que vinha do meu computador, se eu desligasse ele a url não era mais acessível.
-            Agora o site/app fica levantado em um servidor na internet e fica disponível 24h por dia, 7 dias por semana.!!!</h1>
+            Agora o site/app fica levantado em um servidor na internet e fica disponível 24h por dia, 7 dias por semana!!!😎</h1>
         
 }
 
